@@ -7,6 +7,7 @@ C:\Dev\MeuApp\obj\Debug\net9.0\MeuApp.GeneratedMSBuildEditorConfig.editorconfig
 C:\Dev\MeuApp\obj\Debug\net9.0\MeuApp.AssemblyInfoInputs.cache
 C:\Dev\MeuApp\obj\Debug\net9.0\MeuApp.AssemblyInfo.cs
 C:\Dev\MeuApp\obj\Debug\net9.0\MeuApp.csproj.CoreCompileInputs.cache
+C:\Dev\MeuApp\obj\Debug\net9.0\MeuApp.sourcelink.json
 C:\Dev\MeuApp\obj\Debug\net9.0\MeuApp.dll
 C:\Dev\MeuApp\obj\Debug\net9.0\refint\MeuApp.dll
 C:\Dev\MeuApp\obj\Debug\net9.0\MeuApp.pdb
